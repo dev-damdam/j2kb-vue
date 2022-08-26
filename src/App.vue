@@ -1,8 +1,9 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">npHome</router-link> |
-      <router-link to="/todo-list">todo-list</router-link>
+      <router-link to="/">Home</router-link> |
+      <router-link to="/todo-list">todo-list</router-link> |
+      <router-link to="/clothes-filtered">clothes-filtered</router-link>
     </nav>
     <router-view />
   </div>
@@ -15,6 +16,12 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+
+  -ms-user-select: none;
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
 }
 
 nav {
