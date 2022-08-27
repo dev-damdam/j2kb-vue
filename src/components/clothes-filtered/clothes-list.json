@@ -48,5 +48,85 @@
       "sub": "t-shirt"
     },
     "productPrice": "14,000"
+  },
+  {
+    "productID": 5,
+    "productName": "청자켓",
+    "productImg": "https://images.unsplash.com/photo-1611312449408-fcece27cdbb7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8amFja2V0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "outer",
+      "sub": "jacket"
+    },
+    "productPrice": "51,000"
+  },
+  {
+    "productID": 6,
+    "productName": "레드 자켓",
+    "productImg": "https://images.unsplash.com/photo-1602562887763-851fa56061e3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGphY2tldHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "outer",
+      "sub": "jacket"
+    },
+    "productPrice": "39,900"
+  },
+  {
+    "productID": 7,
+    "productName": "핑크 조거 팬츠",
+    "productImg": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "bottom",
+      "sub": "pants"
+    },
+    "productPrice": "32,000"
+  },
+  {
+    "productID": 8,
+    "productName": "베이지 코튼 팬츠",
+    "productImg": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "bottom",
+      "sub": "pants"
+    },
+    "productPrice": "29,800"
+  },
+  {
+    "productID": 9,
+    "productName": "블랙 코튼 팬츠",
+    "productImg": "https://images.unsplash.com/photo-1584865288642-42078afe6942?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8cGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "bottom",
+      "sub": "pants"
+    },
+    "productPrice": "32,600"
+  },
+  {
+    "productID": 10,
+    "productName": "오렌지 슬랙스",
+    "productImg": "https://images.unsplash.com/photo-1551854838-212c50b4c184?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8cGFudHN8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "bottom",
+      "sub": "pants"
+    },
+    "productPrice": "19,900"
+  },
+  {
+    "productID": 11,
+    "productName": "블랙 플리츠 스커트",
+    "productImg": "https://images.unsplash.com/photo-1583496661160-fb5886a0aaaa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8c2tpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "bottom",
+      "sub": "skirt"
+    },
+    "productPrice": "14,000"
+  },
+  {
+    "productID": 12,
+    "productName": "옐로 체크 미디엄 스커트",
+    "productImg": "https://images.unsplash.com/photo-1561932850-f13404855e53?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2tpcnR8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60",
+    "category": {
+      "main": "bottom",
+      "sub": "skirt"
+    },
+    "productPrice": "20,000"
   }
 ]
