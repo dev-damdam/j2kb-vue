@@ -39,6 +39,12 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
+
+  position: sticky;
+  top: 0;
+  left: 0;
+
+  z-index: 1;
 }
 
 .cf-header-wrapper > .title {
