@@ -3,7 +3,8 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/todo-list">todo-list</router-link> |
-      <router-link to="/clothes-filtered">clothes-filtered</router-link>
+      <router-link to="/clothes-filtered">clothes-filtered</router-link> |
+      <router-link to="/day-counter">day-counter</router-link>
     </nav>
     <router-view />
   </div>
