@@ -5,10 +5,10 @@
         <b-form-input
           v-model="todo"
           placeholder="할 일을 입력해주세요."
-          @keyup.enter="createTodo"
+          @keyup.enter.stop="createTodo"
         ></b-form-input>
         <b-input-group-append>
-          <b-button size="lg" @click="createTodo"
+          <b-button size="lg" @click.prevent="createTodo"
             ><b-icon icon="plus"
           /></b-button>
         </b-input-group-append>
