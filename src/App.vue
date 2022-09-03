@@ -23,6 +23,9 @@
   -khtml-user-select: none;
   -webkit-user-select: none;
   user-select: none;
+
+  width: 100%;
+  height: 100%;
 }
 
 nav {
